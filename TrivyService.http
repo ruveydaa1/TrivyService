@@ -1,0 +1,6 @@
+@TrivyService_HostAddress = http://localhost:5132
+
+GET {{TrivyService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
